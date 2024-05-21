@@ -23,7 +23,7 @@ provider "aws" {
       tenant       = "Core"
       organisation = "tombolaltd"
       team         = "INFOSEC"
-      repo         = "TBC"
+      repo         = "https://github.com/laithal-hakim/Security-Hub"
     }
   }
 }
